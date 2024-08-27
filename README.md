@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zikri Ramdani</h1>
 <h3 align="center">A passionate Tech Enthusiast from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zikriramdani&label=Profile%20views&color=0e75b6&style=flat" alt="zikriramdani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zikriramdani&label=Profile%20views&color=0e75b6&base=8000&style=plastic" alt="zikriramdani" /> </p>
 
 <p align="left"> <a href="https://github.com/zikriramdani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriramdani" alt="zikriramdani" /></a> </p>
 <br/>
