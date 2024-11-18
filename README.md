@@ -21,7 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zikriramdani&show_icons=true&theme=highcontrast&locale=en" alt="rover07" /></p>
 <br>
 <center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikriramdani&theme=highcontrast" alt="rover07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikriramdani&theme=highcontrast" alt="Zikri Ramdani" /></p>
 </center>
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zikriramdani&theme=tokyo-night)](https://github.com/zikriramdani/github-readme-activity-graph)
